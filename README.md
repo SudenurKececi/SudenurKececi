@@ -19,7 +19,7 @@
 
 👋 Kısaca ben kimim?
 
-- 🚀 Fırat Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim.
+- 🚀 Fırat Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.
 - 🧠 Blokzincir ve Yapay Zeka Alanında projeler geliştiriyorum.
 - 🛠 Kendimi daima geliştirip yeni teknolojiler öğrenme hedefindeyim.
 - ✍ Medium'da öğrendiklerimi paylaşarak Türkçe kaynak üretmeye çalışıyorum.
